@@ -1,0 +1,8 @@
+{
+  "name": "Remix 행렬 연산을 이용한 이미지 밝기 변환 실습실",
+  "description": "고등학교 인공지능 수학 교과서 90~91쪽 연계: 행렬의 덧셈과 뺄셈을 이용한 흑백·컬러 이미지의 밝기 변환 원리 탐구 및 시각화 실습 도구",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
